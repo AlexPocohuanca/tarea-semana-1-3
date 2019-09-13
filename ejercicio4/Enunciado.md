@@ -1,6 +1,6 @@
 # Descripcion
 
-semana 1
+Semana 1
 
 Cada cuadrado de un tablero de ajedrez puede ser descrito por una combinación de una letra un número. Por ejemplo:  g 5, a7, etc.
 

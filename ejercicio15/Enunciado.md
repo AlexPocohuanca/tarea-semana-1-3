@@ -1,7 +1,5 @@
 # Descripcion
 
-semana 1
-
 Cada cuadrado de un tablero de ajedrez puede ser descrito por una combinación de una letra un número. Por ejemplo:  g 5, a7, etc.
 
 El siguiente pseudocódigo describe el algoritmo para determinar si un cuadrado del tablero de ajedrez es de color blanco o negro, si se da como dato una letra y un número.
